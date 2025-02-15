@@ -984,7 +984,7 @@ body {
 .not-loaded * {
   animation-play-state: paused !important;
 }
-/*
+
 .container{
   background: rgba(100, 81, 88, 0.9);
   padding: 2rem;
@@ -995,5 +995,5 @@ body {
   max-width: 400px;
   margin: 0.5rem;
   padding: 1rem;
-}/
+}
 /*# sourceMappingURL=style.css.map */
